@@ -1,3 +1,10 @@
+2.2.3 / 2021-07-29
+==================
+
+* removed * Add support for other coins via `setCoin()` 
+* removed * Add support for other coins via `SERVICE(coin)` and `coin` config option for the `Connection`
+* removed * Add full node api method `getCoinSolution`
+
 2.2.2 / 2021-07-28
 ==================
 
